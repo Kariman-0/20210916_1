@@ -4,15 +4,10 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World\n";
-	cout << "Hello World" << endl;
+	
+	cout << 1 + 1 << endl;
 
-	cout << "*\n";
-	cout << "**\n";
-	cout << "***\n";
-	cout << "****\n";
-	cout << "*****\n";
-
+	cout << 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 << endl;
 
 	return 0;
 
